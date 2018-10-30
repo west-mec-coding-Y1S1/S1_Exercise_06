@@ -1,2 +1,2 @@
-# S1_Exercise_04
+# S1_Exercise_06
 Graphic Design with CSS3
